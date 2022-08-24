@@ -1,0 +1,5 @@
+# Secrets
+.env
+
+# Cache, Clutter, & Build
+target/
