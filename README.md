@@ -1,5 +1,7 @@
 # NonFungibleAchievements
-Celebrate your achievements on-chain
+Celebrate your achievements on-chain. 
+
+Mint your personal achievements or send them to your friends.
 
 ## File Structure
 
