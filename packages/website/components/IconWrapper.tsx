@@ -6,7 +6,6 @@ const IconWrapper = () => {
             <img className={styles.cube} src="/cube.png" />
             <img className={styles.rectangle} src="/rectangle.png" />
             <img className={styles.pill} src="/pill.png" />
-
         </div>
     )
 }
