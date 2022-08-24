@@ -2,6 +2,9 @@
   "name": "nonfungibleachievements",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "website:dev": "npx next dev ./packages/website"
+  },
   "repository": "https://github.com/TheLDB/nonfungibleachievements.git",
   "author": "TheLDB <ldb@erikboles.com>",
   "license": "MIT",

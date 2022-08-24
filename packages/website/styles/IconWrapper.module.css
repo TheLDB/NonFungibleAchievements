@@ -1,0 +1,39 @@
+@keyframes bounce {
+	from {
+		transform: translateY(0px);
+	}
+	to {
+		transform: translateY(-15px);
+	}
+}
+
+.root {
+    overflow: hidden;
+}
+
+.cube {
+    position: absolute;
+    top: 7rem;
+    right: 8rem;
+    opacity: 0.75;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
+}
+
+.rectangle {
+    position: absolute;
+    top: 15rem;
+    left: 4rem;
+    opacity: 0.75;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
+}
+
+.pill {
+    position: absolute;
+    bottom: 10rem;
+    left: 2rem;
+    opacity: 0.75;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
+}
