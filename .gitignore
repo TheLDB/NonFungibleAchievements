@@ -1,0 +1,6 @@
+# Cache, Modules, Clutter
+node_modules/
+
+# Secrets
+.env
+

@@ -1,0 +1,11 @@
+{
+  "name": "NonFungibleAchievements",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheLDB/nonfungibleachievements.git",
+  "author": "TheLDB <ldb@erikboles.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
+}
