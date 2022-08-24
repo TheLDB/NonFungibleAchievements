@@ -15,5 +15,15 @@ Folder containing two subfolders for smart contracts & connection to different c
     - [solidity](/packages/contracts/solidity)
     - [rust](/packages/contracts/rust)
 
-### [packages/contracts/solidity](/packages/contracts/)
-Folder containing Solidity & Rus
+### [packages/contracts/solidity](/packages/contracts/solidity/)
+Contains:
+- Solidity Contracts for connectivity to Ethereum
+- Typescript & Chai tests
+- Typescript deployment scripts
+
+Powered by Hardhat tooling
+
+### [packages/contracts/rust](/packages/contracts/rust/)
+Contains:
+- Rust Contracts for connectivity to Solana
+- Rust Test Scripts
